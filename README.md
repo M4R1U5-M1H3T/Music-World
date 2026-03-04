@@ -31,4 +31,3 @@ Building this project was my first deep dive into full-stack desktop development
 For some reason, Form1.resx, Form2.resx, Form3.Resx might not be accessible at first.
 They're added in a separate folder named ResxFiles.
 Right-click on the .resx file, properties -> unblock -> apply.
-The files from the project have to be replaced by these.
