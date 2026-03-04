@@ -1,0 +1,23 @@
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\bin\Debug\Lucrare_Atestat.exe.config
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\bin\Debug\LogInDb.sdf
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\bin\Debug\Lucrare_Atestat.exe
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\bin\Debug\Lucrare_Atestat.pdb
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\bin\Debug\Interop.WMPLib.dll
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Lucrare_Atestat.csprojResolveAssemblyReference.cache
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Lucrare_Atestat.csproj.ResolveComReference.cache
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Lucrare_Atestat.Form1.resources
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Lucrare_Atestat.Properties.Resources.resources
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Lucrare_Atestat.csproj.GenerateResource.Cache
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Lucrare_Atestat.exe
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Lucrare_Atestat.pdb
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Lucrare_Atestat.Form2.resources
+C:\Users\maria\onedrive\documents\visual studio 2010\Projects\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Lucrare_Atestat.Form3.resources
+C:\Users\mariu\OneDrive\Desktop\Proiecte\AtestatInformatica-20260304T122827Z-3-001\AtestatInformatica\Atestat_Informatica\Lucrare_Atestat\Lucrare_Atestat\bin\Debug\Lucrare_Atestat.exe.config
+C:\Users\mariu\OneDrive\Desktop\Proiecte\AtestatInformatica-20260304T122827Z-3-001\AtestatInformatica\Atestat_Informatica\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\mariu\OneDrive\Desktop\Proiecte\AtestatInformatica-20260304T122827Z-3-001\AtestatInformatica\Atestat_Informatica\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\mariu\OneDrive\Desktop\Proiecte\AtestatInformatica-20260304T122827Z-3-001\AtestatInformatica\Atestat_Informatica\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Lucrare_Atestat.csproj.ResolveComReference.cache
+C:\Users\mariu\OneDrive\Desktop\Proiecte\AtestatInformatica-20260304T122827Z-3-001\AtestatInformatica\Atestat_Informatica\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Lucrare_Atestat.exe
+C:\Users\mariu\OneDrive\Desktop\Proiecte\AtestatInformatica-20260304T122827Z-3-001\AtestatInformatica\Atestat_Informatica\Lucrare_Atestat\Lucrare_Atestat\obj\x86\Debug\Lucrare_Atestat.pdb
